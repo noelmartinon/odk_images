@@ -20,4 +20,5 @@ Then get images like this:
 
 ## License
 GPLv3
+
 Author: Noël MARTINON
